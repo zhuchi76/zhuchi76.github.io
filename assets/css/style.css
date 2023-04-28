@@ -76,7 +76,6 @@ h1, h2, h3, h4, h5, h6 {
 #header .profile img {
   margin: 15px auto;
   display: block;
-  background: url("../img/DK.jpg") center center;
   width: 120px;
   border: 8px solid #2c2f3f;
 }
@@ -222,7 +221,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/DK1.jpg") center center;
+  background: url("../img/Arthur_chen_2.jpg") center center;
   background-size: cover;
 }
 
